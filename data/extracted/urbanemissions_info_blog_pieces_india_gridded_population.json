@@ -1,0 +1,7 @@
+{
+  "url": "https://urbanemissions.info/blog-pieces/india-gridded-population/",
+  "title": "India: Gridded Population for 2011-2050",
+  "category": "Blog Pieces",
+  "text": "Gridded population database for India is available at 0.25° resolution for the period of 2011-2050. The baseline information is extracted from\n\nCensus India ( 2011 )\n\nGridded Population of the World ( GPW ) from SEDAC\n\nGridded population of the world ( Landscan ) from ORNL\n\nand projected to 2050 using birth and death rates by state and further distinguished between urban and rural grids using the following databases\n\nCommunity created maps of India by datameet\n\nGlobal Human Settlements ( GHS ) – urban built areas\n\nLand cover data 1992-2015 ( ESA )\n\nDownload the gridded excel file here . An animation for the period of 2011-2050 is here and maps for select years are presented below. The grid resolution is 0.25° degrees. In the file , first two columns represent grid number (ix,iy) starting in the SW corner and the next two columns represent the grid longitude-latitude mid-points in degrees.",
+  "pdf_links": []
+}

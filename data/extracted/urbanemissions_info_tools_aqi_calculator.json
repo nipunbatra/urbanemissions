@@ -1,0 +1,10 @@
+{
+  "url": "https://urbanemissions.info/tools/aqi-calculator/",
+  "title": "An MS-Excel Based Calculator to Estimate Air Quality Index",
+  "category": "Tools",
+  "text": "Air Quality Index (AQI) is a unit less number which unifies all the complicated (a) science of pollution composition, (b) exposure rate based health severity, (c) ambient standards, and (d) measurement and standard protocols, into simple color coded alerts of good or bad or severe air pollution categories.\n\nTen Frequently Asked Questions on AQI\n\nWhile simple, this topic still raising some confusing questions during a conversation. The following questions are detailed in the SIM-air Working Paper # 46-2021 . Click on the report cover to access PDF.\n\nWhat is the difference between air quality and air quality index?\n\nIs it better to report pollutant concentrations or pollutant AQI values?\n\nHow is AQI calculated?\n\nEvery criteria pollutant has an index value, then which one decides “AQI of the day”?\n\nWhat is the difference between Indian, Chinese, USA, EU, and other AQI methodologies?\n\nHow many monitors are required to monitor to calculate AQI of a city?\n\nWhat is the difference between hourly and daily AQI?\n\nWhat is the meaning of AQI=500 or AQI=999?\n\nIs PM2.5 the most harmful of all air pollutants?\n\nWhere can we access real time updates on air quality and AQI?\n\nMS Excel Based AQI Calculators\n\nTwo calculators were developed to illustrate and evaluate AQI using seven (7) methodologies from USA, EU, UK, India, China, South Korea, and Singapore\n\nVersion (01) calculates AQI for one time data  [ Download ]\n\nVersion (02) calculates AQI for a large dataset and charts a comparison [ Download ]\n\nBoth the calculators require the user to activate Macros in MS Excel and follow instructions. Instructional videos for version-01 (less than 3 minutes) and version-02 (less than 4 minutes) explain the steps and the format of the required inputs.",
+  "pdf_links": [
+    "https://urbanemissions.info/wp-content/uploads/docs/SIM-46-2021.pdf",
+    "https://urbanemissions.info/wp-content/uploads/docs/SIM-46-2021.pdf"
+  ]
+}
